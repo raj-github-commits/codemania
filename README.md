@@ -1,0 +1,2 @@
+# codemania
+code new repository
